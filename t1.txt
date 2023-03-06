@@ -1,4 +1,5 @@
 There are two different contexts in Git for upstream/downstream, which are remotes and time/history. In the reference of remote upstream/downstream, the downstream repo will be pulled from the upstream repository. Data will flow downstream naturally.
 
 hello good morning
-Git is a control system
+Git is a version control system
+
